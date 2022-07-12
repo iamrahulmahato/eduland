@@ -1,0 +1,19 @@
+{
+  "name": "eduland",
+  "version": "1.0.0",
+  "description": "a education platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrahulmahato/eduland.git"
+  },
+  "author": "rahul mahato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamrahulmahato/eduland/issues"
+  },
+  "homepage": "https://github.com/iamrahulmahato/eduland#readme"
+}
