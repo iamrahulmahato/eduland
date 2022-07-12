@@ -7,6 +7,7 @@
 
 <div align="center">
  website where student can easily understand any topic in easy and funny way. Study materials will be provided of the languages C, C++, Python in the form of basic concept, tool, syntax learning and quizzes.
+ hello
 </div>
 
 
